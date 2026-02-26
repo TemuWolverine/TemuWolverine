@@ -1,4 +1,5 @@
-## Hi there 👋
+## Temu Wolverine
+is what you get when you order Wolverine from Temu. I'm off-brand everything.
 
 <!--
 **TemuWolverine/TemuWolverine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
